@@ -4,15 +4,15 @@ AggmGPT-1.5 is a lightweight language model developed by Adolfo GM based on Aggm
  
 ## Examples
 
-[example](example.png)
+![example](example.png)
 
 AggmGPT-1.5 is great at answering simple questions.
 
-[example](example2.png)
+![example](example2.png)
 
 The script has a built in grammar correction that most of the time works very well.
 
-[example](example3.png)
+![example](example3.png)
 
 However with this example we can clearly see that the model is not perfect and sometimes it can generate text that is not coherent.
 
