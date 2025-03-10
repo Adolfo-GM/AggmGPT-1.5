@@ -1,6 +1,6 @@
 # AggmGPT-1.5
 
-<img src="logo.png" height="50px">
+<img src="logo.png" height="60px">
 
 AggmGPT-1.5 is a lightweight language model developed by Adolfo GM based on AggmGPT-1, designed to generate human-like text using n-gram models combined with self-attention mechanisms. The project is licensed under the MIT License, making it open-source and free for modification and distribution. AggmGPT-1.5 is a far more capable model than its predecessor, AggmGPT-1, and is capable of generating text that is more coherent and human-like, while still being very small compared to other language models. AggmGPT-1.5 is less than 500 KB in size, making it ideal for use in embedded systems and other resource-constrained environments.
  
