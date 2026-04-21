@@ -1,8 +1,8 @@
-# AggmGPT-1.5
-
 <img src="logo.png" height="60px">
 
-AggmGPT-1.5 is a lightweight language model developed by Adolfo GM based on AggmGPT-1, designed to generate human-like text using n-gram models combined with self-attention mechanisms. The project is licensed under the MIT License, making it open-source and free for modification and distribution. AggmGPT-1.5 is a far more capable model than its predecessor, AggmGPT-1, and is capable of generating text that is more coherent and human-like, while still being very small compared to other language models. AggmGPT-1.5 is less than 500 KB in size, making it ideal for use in embedded systems and other resource-constrained environments.
+# AggmGPT-1.5
+
+AggmGPT-1.5 is a lightweight n-gram language model developed by Adolfo GM based on AggmGPT-1, designed to generate human-like text using n-gram models combined with self-attention mechanisms. The project is licensed under the MIT License, making it open-source and free for modification and distribution. AggmGPT-1.5 is a far more capable model than its predecessor, AggmGPT-1, and is capable of generating text that is more coherent and human-like, while still being very small compared to other language models. AggmGPT-1.5 is less than 500 KB in size, making it ideal for use in embedded systems and other resource-constrained environments.
  
 ## Examples
 
@@ -28,3 +28,18 @@ However with this example we can clearly see that the model is not perfect and s
 
 
 In conclusion, AggmGPT-1.5 is a powerful and lightweight language model that is capable of generating human-like text. The project is open-source and free for modification and distribution, making it a great choice for developers looking for a lightweight language model that is easy to use and customize.
+
+
+## Citation
+
+If you use this software in your work, please cite it as follows:
+
+```bibtex
+@software{AggmGPT-1.5,
+  author = {Adolfo GM},
+  title = {AggmGPT-1.5},
+  url = {https://github.com/Adolfo-GM/AggmGPT-1.5},
+  year = {2024}
+}
+```
+
